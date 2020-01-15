@@ -44,5 +44,6 @@ public class Main {
         System.out.println ("Результат собеседования: ");
         if (work1>= 3)  System.out.print("Yes");
             else System.out.print("No");
+            //
     }
 }
